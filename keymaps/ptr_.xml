@@ -1,0 +1,14 @@
+<keymap version="1" name="ptr." parent="Mac OS X">
+  <action id="ActivateLogcatToolWindow" />
+  <action id="CommentByLineComment">
+    <keyboard-shortcut first-keystroke="meta slash" />
+    <keyboard-shortcut first-keystroke="meta divide" />
+    <keyboard-shortcut first-keystroke="meta 6" />
+  </action>
+  <action id="ConvertJavaToKotlin" />
+  <action id="Vcs.QuickListPopupAction">
+    <keyboard-shortcut first-keystroke="ctrl v" />
+    <keyboard-shortcut first-keystroke="shift meta alt k" />
+  </action>
+  <action id="context.clear" />
+</keymap>
