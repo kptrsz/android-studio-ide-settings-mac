@@ -11,7 +11,7 @@
     <keyboard-shortcut first-keystroke="alt up" />
     <keyboard-shortcut first-keystroke="meta w" />
   </action>
-  <action id="VcsGroups">
+  <action id="Git.RepositoryContextMenu">
     <keyboard-shortcut first-keystroke="shift meta alt k" />
   </action>
   <action id="android.deploy.ApplyChanges">
