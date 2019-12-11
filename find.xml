@@ -7,9 +7,9 @@
     <mask>*.html</mask>
     <mask>*.jsp</mask>
     <mask>*.properties</mask>
-    <mask>*.gradle</mask>
     <mask>*.xml</mask>
     <mask>*.kt</mask>
     <mask>*.java</mask>
+    <mask>*.gradle</mask>
   </component>
 </application>
