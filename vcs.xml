@@ -18,8 +18,12 @@
           <option name="url" value="https://bitbucket.org/accedo/dtag-player-android" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/googleads/googleads-ima-android-dai.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="$USER_HOME$/Documents/dev/accedo" />
+    <option name="cloneParentDir" value="$USER_HOME$/Documents/dev/accedo/ads" />
   </component>
 </application>
