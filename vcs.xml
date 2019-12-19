@@ -22,6 +22,10 @@
           <option name="url" value="https://github.com/googleads/googleads-ima-android-dai.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://android.googlesource.com/platform/packages/apps/TV" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="$USER_HOME$/Documents/dev/accedo/ads" />
