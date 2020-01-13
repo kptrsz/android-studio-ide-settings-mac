@@ -34,9 +34,17 @@
           <option name="url" value="https://github.com/googlesamples/androidtv-sample-inputs.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/Accedo-Products/paytv-updater-app.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://github.com" />
+          <option name="userName" value="peter-kovacs-accedo" />
+        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="$USER_HOME$/Documents/dev/accedo/tv" />
+    <option name="cloneParentDir" value="$USER_HOME$/Documents/dev/accedo" />
   </component>
   <component name="Vcs.Log.App.Settings">
     <option name="SHOW_CHANGES_FROM_PARENTS" value="true" />
