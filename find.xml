@@ -1,15 +1,16 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="File '.../paytv-widgets-menu/src/main/java/tv/accedo/paytv/widgets/menu/MenuView.java [paytv-widgets-menu]'" />
-    <option name="defaultScopeName" value="File '.../paytv-widgets-menu/src/main/java/tv/accedo/paytv/widgets/menu/MenuView.java [paytv-widgets-menu]'" />
-    <option name="SEARCH_SCOPE" value="File '.../paytv-widgets-menu/src/main/java/tv/accedo/paytv/widgets/menu/MenuView.java [paytv-widgets-menu]'" />
+    <option name="customScope" value="All Places" />
+    <option name="defaultScopeName" value="All Places" />
+    <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.java" />
     <mask>*.css</mask>
     <mask>*.html</mask>
     <mask>*.jsp</mask>
     <mask>*.properties</mask>
     <mask>*.kt</mask>
     <mask>*.gradle</mask>
-    <mask>*.java</mask>
     <mask>*.xml</mask>
+    <mask>*.java</mask>
   </component>
 </application>
