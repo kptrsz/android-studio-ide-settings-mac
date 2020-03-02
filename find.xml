@@ -1,9 +1,8 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="File '.../app-launcher/src/main/java/tv/accedo/paytv/launcher/utils/Breadcrumbs.kt [app-launcher]'" />
-    <option name="defaultScopeName" value="File '.../app-launcher/src/main/java/tv/accedo/paytv/launcher/utils/Breadcrumbs.kt [app-launcher]'" />
-    <option name="SEARCH_SCOPE" value="File '.../app-launcher/src/main/java/tv/accedo/paytv/launcher/utils/Breadcrumbs.kt [app-launcher]'" />
-    <option name="FILE_MASK" value="*.java" />
+    <option name="customScope" value="All Places" />
+    <option name="defaultScopeName" value="All Places" />
+    <option name="SEARCH_SCOPE" value="All Places" />
     <mask>*.css</mask>
     <mask>*.html</mask>
     <mask>*.jsp</mask>
