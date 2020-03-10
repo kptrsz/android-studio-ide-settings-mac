@@ -1,8 +1,8 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="File '.../paytv-widgets/src/main/java/tv/accedo/paytv/widgets/drawable/GradientBackgroundDrawable.kt [paytv-widgets]'" />
-    <option name="defaultScopeName" value="File '.../paytv-widgets/src/main/java/tv/accedo/paytv/widgets/drawable/GradientBackgroundDrawable.kt [paytv-widgets]'" />
-    <option name="SEARCH_SCOPE" value="File '.../paytv-widgets/src/main/java/tv/accedo/paytv/widgets/drawable/GradientBackgroundDrawable.kt [paytv-widgets]'" />
+    <option name="customScope" value="All Places" />
+    <option name="defaultScopeName" value="All Places" />
+    <option name="SEARCH_SCOPE" value="All Places" />
     <mask>*.css</mask>
     <mask>*.html</mask>
     <mask>*.jsp</mask>
